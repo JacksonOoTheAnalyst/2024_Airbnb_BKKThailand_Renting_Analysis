@@ -1,6 +1,6 @@
 # 2024 Airbnb Thailand Renting Analysis
 
-# Tableau Visualization 2024 Airbnb_ Thailand Renting Analysis [Link] (https://public.tableau.com/app/profile/win.maw.oo/viz/2024AirbnbThailandPropertyRentngAnalysis/SummaryRentingAnalysis)
+# Tableau Visualization 2024 Airbnb_ Thailand Renting Analysis [Link](https://public.tableau.com/app/profile/win.maw.oo/viz/2024AirbnbThailandPropertyRentngAnalysis/SummaryRentingAnalysis)
 
 ### Project Overview
 
@@ -29,13 +29,13 @@ Third Page(Review rating)
 
 ### Tools & Process
 
-- Downloading Data Sources [Link](hhttps://insideairbnb.com/get-the-data/)
+- Downloading Data Sources [Link] (hhttps://insideairbnb.com/get-the-data/)
 - Explore Download Data in Excel / Regrouping data for desired individual Analyzing.
 
 - Data Cleaning and Transformation have beed done by SQL and Microsoft Excel depend on    data qunatity and working process
 - The Cleaned and Struture data have been viuslized and analysied in Tableau Visualization.
 - Upgraded dynamic interactive report which is appealing and aesthic on Brand_Guide_Line
-- Tableau Visualization 2024 Airbnb Bangkok Ranting Report [Link] (https://public.tableau.com/app/profile/win.maw.oo/viz/2024AirbnbThailandPropertyRentngAnalysis/SummaryRentingAnalysis)
+- Tableau Visualization 2024 Airbnb Bangkok Ranting Report [Link](https://public.tableau.com/app/profile/win.maw.oo/viz/2024AirbnbThailandPropertyRentngAnalysis/SummaryRentingAnalysis)
 
 ### Used Method in SQL 
 
