@@ -1,6 +1,6 @@
 # 2024 Airbnb Thailand Renting Analysis
 
-# Tableau Visualization 2024 Airbnb_ Thailand Renting Analysis [Link](https://public.tableau.com/app/profile/win.maw.oo/viz/Airbnb_17258292430380/PropertyAnalysis)
+# Tableau Visualization 2024 Airbnb_ Thailand Renting Analysis [Link] (https://public.tableau.com/app/profile/win.maw.oo/viz/2024AirbnbThailandPropertyRentngAnalysis/SummaryRentingAnalysis)
 
 ### Project Overview
 
@@ -35,7 +35,7 @@ Third Page(Review rating)
 - Data Cleaning and Transformation have beed done by SQL and Microsoft Excel depend on    data qunatity and working process
 - The Cleaned and Struture data have been viuslized and analysied in Tableau Visualization.
 - Upgraded dynamic interactive report which is appealing and aesthic on Brand_Guide_Line
-- Tableau Visualization 2020 - 2024 COVID-19 Report [Link](https://public.tableau.com/app/profile/win.maw.oo/viz/Airbnb_17258292430380/PropertyAnalysis)
+- Tableau Visualization 2024 Airbnb Bangkok Ranting Report [Link] (https://public.tableau.com/app/profile/win.maw.oo/viz/2024AirbnbThailandPropertyRentngAnalysis/SummaryRentingAnalysis)
 
 ### Used Method in SQL 
 
